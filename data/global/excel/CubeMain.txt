@@ -147,6 +147,6 @@ r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"use
 r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
+Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
