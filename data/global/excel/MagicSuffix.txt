@@ -221,7 +221,7 @@ of Quality	100	0	1	36		28				4	14	dmg-max		2	2											scha												0	0	0
 of Maiming	100	0		51		43				4	14	dmg-max		3	4											scha												0	0	0
 of Ire	100	1	1	4		3				4	14	dmg-max		2	5											jewl												0	0	0
 of Wrath	100	1	1	11		8				4	14	dmg-max		6	9									1	blac	jewl												0	0	0
-of Carnage	100	1		25		18				4	14	dmg-max		11	15									1	blac	jewl														
+of Carnage	100	1		25		18				4	14	dmg-max		11	15									1	blac	jewl												0	0	0
 of Worth	1	1	1	1		1				8	15	dmg-min		1	2											weap							staf	wand	orb			0	0	0
 of Measure	1	1	1	12		9				7	15	dmg-min		3	4											weap							staf	wand	orb			0	0	0
 of Excellence	1	1	1	24		18				6	15	dmg-min		5	8											weap							staf	wand	orb			0	0	0

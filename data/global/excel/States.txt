@@ -98,7 +98,7 @@ berserk	95															1																												berserkfront	berserkback		
 revive	96																														1	1			1																	15						85	73	255	255	255									0
 skel_mastery	97			1																																																																			0
 sourceunit	98																														1	1																				4	2																		0
-redeemed	99																														1	1	1		1																	10			redemption								paladin_redeemed_soul								0
+redeemed	99																														1	1	1		1																	10			Redemption								paladin_redeemed_soul								0
 healthpot	100																																																																						0
 holyshield	101				1																																														skill_armor_percent				Holy Shield																0
 just_portaled	102																																																																						0
