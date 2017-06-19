@@ -39,12 +39,20 @@ The following changes from the official patches are included in the Base Mod, an
 ### How do I create a mod from these files?
 
 1. Create a directory for your mod within your Diablo II directory, e.g. "My Mod".
+
 2. Create a shortcut to Diablo II, and place it in your mod folder.
-3. Edit the shortcut properties, and append *-direct -txt* to the target parameter.
+
+3. Edit the shortcut properties, and append *-direct -txt* to the *Target* parameter.
 For example:
     > Target:
-"C:\Diablo II\Game.exe" -direct -txt
-4. Place the Base Mod files into your mod folder such that you have the following directory structure:
+    > "C:\Diablo II\Game.exe" -direct -txt
+
+    The  *Start in* parameter should be your mod directory.
+For example:
+    > Start in:
+    > "C:\Diablo II\My Mod"
+
+4. Place the Base Mod files (or files from another mod if you were sent here from elsewhere - the process is the same) into your mod folder such that you have the following directory structure:
     ```
     .
     +-- Diablo II
