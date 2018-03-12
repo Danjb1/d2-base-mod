@@ -37,14 +37,3 @@ The following changes from the official patches are included in the Base Mod, an
 ## Getting Started
 
 For information on creating a mod from these files, and which versions of the game are supported, see the [FAQ](docs/FAQ.md).
-
-## Acknowledgements
-
- - Nefarius - for his fantastic work on the [fixed 1.11b text files](http://d2mods.info/filecenter/dload.php?action=file&file_id=1365).
- - Count.Dracula - for his [fixed 1.13c text files](http://d2mods.info/forum/viewtopic.php?f=5&t=56033).
- - FearedBliss - for finding the bug with the Smith and Griswold's loot tables (see [Vanilla Frosting](https://github.com/fearedbliss/Diablo-II--Vanilla-Frosting)).
- - [The Phrozen Keep](http://d2mods.info/) - for hosting so many excellent resources.
-
-## Disclaimer
-
-The unmodified game data within this project is the intellectual property of *Blizzard Entertainment*.
