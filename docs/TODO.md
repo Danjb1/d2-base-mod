@@ -3,11 +3,8 @@
 - [ ] Finish replicating changes from the fixed 1.13c text files:
 
     - Levels.txt
-    - MagicPrefix.txt
-    - MagicSuffix.txt
     - Missiles.txt
     - MonStats.txt
-    - automagic.txt
 
 - [ ] Fix Siege Beast stomp (see Count.Dracula's fixed text files)
 
@@ -22,4 +19,6 @@
 
 - [ ] Incorporate Snake's "Fixed Font Mod" (www.snakebytestudios.com)
 
-- [ ] Incoporate "no intro" mod
+- [ ] Incorporate "no intro" mod
+
+- [ ] Capitalise filenames
