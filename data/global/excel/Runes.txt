@@ -139,7 +139,7 @@ Runeword115	Question																																															0
 Runeword117	Rain	1		tors									OrtMalIth	r09	r23	r06				hit-skill	Twister	5	15	gethit-skill	Cyclone Armor	5	15	dru		2	2	mana		100	150													0
 Runeword118	Reason																																															0
 Runeword119	Red																																															0
-Runeword121	Rift	1	1	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	16	att-skill	Frozen Orb	16	21	charged	Iron Maiden	40	15	all-stats		5	10	0
+Runeword121	Rift	1	1	pole	scep								HelKoLemGul	r15	r18	r20	r25			dmg-mag		160	250	dmg-fire		60	180	dmg-to-mana		38	38	hit-skill	Tornado	20	16	att-skill	Frozen Orb	16	21	charged	Iron Maiden2	40	15	all-stats		5	10	0
 Runeword76	The Lovers																																															0
 Runeword143	Thirst																																															0
 Runeword68	Thirst for Knowledge																																															0

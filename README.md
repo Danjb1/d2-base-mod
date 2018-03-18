@@ -25,6 +25,7 @@ Currently this only addresses bugs in the game's data files, not the code itself
  - Fixed BatDemons spawning at ground level.
  - Fixed Spirit of Barbs displaying the wrong Thorns damage per level.
  - Fixed the Smith and Griswold's dropping the wrong loot on nightmare.
+ - Fixed Siege Beast's stomp dealing no damage.
  - Fixed lots of other issues in the text files that have no impact on gameplay.
 
 ### Backported Features / Fixes
@@ -32,6 +33,7 @@ Currently this only addresses bugs in the game's data files, not the code itself
 The following changes from the official patches are included in the Base Mod, and can be backported to older versions:
 
  - Rune and rare item names displayed in orange (requires modified *patchstring.tbl*).
+ - Oblivion Knights no longer cast Iron Maiden.
  - All non-code fixes from patches up to v1.13d.
 
 ## Getting Started

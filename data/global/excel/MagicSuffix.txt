@@ -567,8 +567,8 @@ of Corpse Explosions		100			12		12		nec	6	1	44	charged	74	-60	-8											wand	
 of Corpse Explosions		100			24		24		nec	6	1	44	charged	74	-20	-5											club														0
 of Clay Golem Summoning		100			12		12		nec	6	1	44	charged	75	-60	-8											wand	knif	head												0
 of Clay Golem Summoning		100			24		24		nec	6	1	44	charged	75	-20	-5											amul	circ													0
-of Iron Maiden		100			18		18		nec	12	1	44	charged	76	-60	-7											wand	knif	head												0
-of Iron Maiden		100			36		36		nec	12	1	44	charged	76	-20	-4											shld														0
+of Iron Maiden		100			18		18		nec	12	1	44	charged	358	-60	-7											wand	knif	head												0
+of Iron Maiden		100			36		36		nec	12	1	44	charged	358	-20	-4											shld														0
 of Terror		100	1	1	18		18		nec	12	1	44	charged	77	-60	-7											wand	knif	head												0
 of Terror		100	1	1	36		36		nec	12	1	44	charged	77	-20	-4											shld														0
 of Bone Walls		100			18		18		nec	12	1	44	charged	78	-60	-7											wand	knif	head												0
